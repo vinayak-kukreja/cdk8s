@@ -1,1 +1,0 @@
-Moved to https://github.com/cdk8s-team/cdk8s-examples/tree/main/java/cdk8s-core
