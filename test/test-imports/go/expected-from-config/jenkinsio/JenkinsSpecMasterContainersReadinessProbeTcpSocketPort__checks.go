@@ -1,5 +1,6 @@
 //go:build !no_runtime_type_checking
 
+// jenkinsio
 package jenkinsio
 
 import (

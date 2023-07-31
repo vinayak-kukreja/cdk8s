@@ -1,1 +1,6 @@
-Moved to https://github.com/cdk8s-team/cdk8s-examples/tree/main/java/cdk8s-crd
+# Custom Resource Definition Import Example (in Java!)
+
+This example application defines a Kubernetes app that uses a bunch of
+CustomResourceDefinitions (CRDs).
+
+The main thing to notice is the `imports` list in the `cdk8s.yaml` file.
